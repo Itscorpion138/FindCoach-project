@@ -1,2 +1,0 @@
-# FindCoach-project
-FindCoach project
